@@ -1,0 +1,6 @@
+name: DiscordBridge
+version: '${project.version}'
+main: minecraft.discordbridge.lomz.me.discordbridge.DiscordBridge
+api-version: 1.18
+authors: [ Lomz ]
+description: A PaperMC plugin that bridges discord chat with minecraft chat.
